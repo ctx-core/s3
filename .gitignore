@@ -2,3 +2,4 @@
 tsconfig.tsbuildinfo
 env.js
 lib.js
+node_modules
