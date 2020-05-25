@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "5.0.52",
+	"version": "5.0.53",
 	"description": "ctx-core s3",
 	"type": "module",
 	"main": "lib.js",
@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3-node": "preview",
-		"@ctx-core/env": "^8.3.27"
+		"@ctx-core/env": "^8.3.28"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
