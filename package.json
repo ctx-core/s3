@@ -2,7 +2,6 @@
 	"name": "@ctx-core/s3",
 	"version": "5.0.55",
 	"description": "ctx-core s3",
-	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
