@@ -52,5 +52,5 @@
   "@aws-sdk/xml-body-parser@0.1.0-preview.9": "sha512-MdRXPxuK27258zlPmfSFgLZ5ljTC7AvMq+J8Hkr6/s4iFeQJjzxXHCmRJ7r/9maUQ0LV8VXDw6khxIQdHKMWAA==",
   "@aws-sdk/xml-builder@0.1.0-preview.3": "sha512-TwahSQDyO0yjiY2GXSDw2f4FP6lgj8LaR/MtmjAHZeP6M8dw5ma08R2pLI5CV+paNIACnnnmRuSW2Dmj0c/jOQ==",
   "tslib@1.13.0": "sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==",
-  "typescript@4.0.2": "sha512-e4ERvRV2wb+rRZ/IQeb3jm2VxBsirQLpQhdxplZ2MEzGvDkkMmPglecnNDfSUBivMjP93vRbngYYDQqQ/78bcQ=="
+  "typescript@4.0.3": "sha512-tEu6DGxGgRJPb/mVPIZ48e69xCn2yRmCgYmDugAVwmJ6o+0u1RI18eO7E7WBTLYLaEVVOhwQmcdhQHweux/WPg=="
 }

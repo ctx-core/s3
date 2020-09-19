@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 7.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.0
+
 ## 6.0.4
 
 ### Patch Changes
