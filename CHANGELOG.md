@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 7.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.1
+
 ## 7.0.0
 
 ### Major Changes
