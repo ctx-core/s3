@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/s3",
-	"version": "7.0.15",
-	"description": "ctx-core s3",
-	"keywords": [
-		"ctx-core",
-		"sass"
-	],
-	"homepage": "https://github.com/ctx-core/s3#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/s3/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/s3/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "./node_modules/.bin/tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@aws-sdk/client-s3-node": "preview",
-		"@ctx-core/env": "workspace:^9.0.15"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.3"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+  "name": "@ctx-core/s3",
+  "version": "7.0.16",
+  "description": "ctx-core s3",
+  "keywords": [
+    "ctx-core",
+    "sass"
+  ],
+  "homepage": "https://github.com/ctx-core/s3#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/s3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/s3/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "./node_modules/.bin/tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3-node": "preview",
+    "@ctx-core/env": "workspace:^9.0.16"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
