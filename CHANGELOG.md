@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 7.0.42
+
+### Patch Changes
+
+- @ctx-core/env@9.1.8
+
 ## 7.0.41
 
 ### Patch Changes
