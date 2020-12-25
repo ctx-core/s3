@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 7.0.47
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.1.13
+
 ## 7.0.46
 
 ### Patch Changes
