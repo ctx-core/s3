@@ -1,7 +1,12 @@
 /**
  * Returns the Date of LastModified
  */
-export function _LastModified_date({ LastModified }) {
+export function _LastModified_date({ LastModified }:_LastModified_date_params_type) {
 	return new Date(Date.parse(LastModified))
 }
-export const _date__LastModified__Object = _LastModified_date
+export interface _LastModified_date_params_type {
+	LastModified:string
+}
+export {
+	_LastModified_date as _date__LastModified__Object
+}

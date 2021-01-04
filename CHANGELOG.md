@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 7.1.0
+
+### Minor Changes
+
+- typescript types
+
 ## 7.0.58
 
 ### Patch Changes
