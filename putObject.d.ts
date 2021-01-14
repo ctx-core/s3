@@ -1,8 +1,6 @@
-import type { S3Client } from '@aws-sdk/client-s3-node/S3Client';
-import type { PutObjectInput } from '@aws-sdk/client-s3-node/types/PutObjectInput';
-import { PutObjectOutput } from '@aws-sdk/client-s3-node/commands/PutObjectCommand';
+import { PutObjectCommandInput, PutObjectOutput, S3Client } from '@aws-sdk/client-s3';
 /**
  * S3 putObject
  * @see {@link http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#putObject-property}
  */
-export declare function putObject(s3client: S3Client, opts: PutObjectInput): Promise<PutObjectOutput>;
+export declare function putObject(s3client: S3Client, opts: PutObjectCommandInput): Promise<PutObjectOutput>;
