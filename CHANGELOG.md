@@ -1,5 +1,12 @@
 # @ctx-core/s3
 
+## 7.1.13
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.3.12
+
 ## 7.1.12
 
 ### Patch Changes
