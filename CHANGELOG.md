@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 8.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.0
+
 ## 7.1.17
 
 ### Patch Changes
