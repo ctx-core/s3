@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.0.36
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.32
+
 ## 8.0.35
 
 ### Patch Changes
