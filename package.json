@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "8.0.34",
+	"version": "8.0.35",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
