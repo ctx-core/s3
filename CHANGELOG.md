@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.0.37
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.33
+
 ## 8.0.36
 
 ### Patch Changes
