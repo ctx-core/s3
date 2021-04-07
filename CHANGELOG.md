@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.0.40
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.36
+
 ## 8.0.39
 
 ### Patch Changes
