@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.14.0",
-		"@ctx-core/env": "workspace:^10.0.76"
+		"@ctx-core/env": "workspace:^10.0.77"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
