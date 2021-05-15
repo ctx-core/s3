@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 8.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.0
+
 ## 8.0.51
 
 ### Patch Changes
