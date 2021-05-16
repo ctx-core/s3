@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.2
+
 ## 8.1.1
 
 ### Patch Changes
