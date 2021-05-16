@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.1
+
 ## 8.1.0
 
 ### Minor Changes
