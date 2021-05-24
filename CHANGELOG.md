@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.3.1
+
 ## 8.2.0
 
 ### Minor Changes
