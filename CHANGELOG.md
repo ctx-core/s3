@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 8.1.4
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.2.3
+
 ## 8.1.3
 
 ### Patch Changes
