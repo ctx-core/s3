@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 8.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.3.0
+
 ## 8.1.4
 
 ### Patch Changes
