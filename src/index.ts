@@ -1,5 +1,5 @@
-export * from './_LastModified_date'
-export * from './_S3Client'
+export * from './last_modified_date_'
+export * from './s3_client_'
 export * from './getObject'
 export * from './listObjects'
 export * from './putObject'

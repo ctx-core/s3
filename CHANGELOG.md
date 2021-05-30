@@ -1,5 +1,18 @@
 # @ctx-core/s3
 
+## 9.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.0
+
 ## 8.3.2
 
 ### Patch Changes
