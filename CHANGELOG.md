@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 9.0.2
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.15
+
 ## 9.0.1
 
 ### Patch Changes
