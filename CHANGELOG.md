@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 10.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.0
+
 ## 9.0.5
 
 ### Patch Changes
