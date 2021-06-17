@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 10.0.1
+
+### Patch Changes
+
+- typescript: ^4.3.2 -> ^4.3.3
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.3
+
 ## 10.0.0
 
 ### Major Changes
