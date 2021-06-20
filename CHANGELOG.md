@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 10.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.10
+
 ## 10.0.7
 
 ### Patch Changes
