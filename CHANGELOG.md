@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 10.0.5
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.7
+
 ## 10.0.4
 
 ### Patch Changes
