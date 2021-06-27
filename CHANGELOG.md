@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 10.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.19
+
 ## 10.0.12
 
 ### Patch Changes
