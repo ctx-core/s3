@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 11.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.0
+
 ## 10.0.17
 
 ### Patch Changes
