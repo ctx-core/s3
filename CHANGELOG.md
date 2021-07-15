@@ -1,5 +1,15 @@
 # @ctx-core/s3
 
+## 11.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+- Updated dependencies [2a6971f80]
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.1
+
 ## 11.0.0
 
 ### Major Changes
