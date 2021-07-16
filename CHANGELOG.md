@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.9
+
 ## 11.0.6
 
 ### Patch Changes

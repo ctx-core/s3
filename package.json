@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "11.0.6",
+	"version": "11.0.7",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.21.0",
-		"@ctx-core/env": "workspace:^13.0.8",
+		"@ctx-core/env": "workspace:^13.0.9",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {
