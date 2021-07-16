@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.5
+
 ## 11.0.3
 
 ### Patch Changes
