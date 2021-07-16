@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.7
+
 ## 11.0.4
 
 ### Patch Changes
