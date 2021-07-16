@@ -1,5 +1,21 @@
 # @ctx-core/s3
 
+## 11.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.12
+
+## 11.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.11
+
 ## 11.0.8
 
 ### Patch Changes
