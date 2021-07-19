@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.13
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.14
+
 ## 11.0.12
 
 ### Patch Changes
