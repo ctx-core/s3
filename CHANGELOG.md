@@ -1,5 +1,15 @@
 # @ctx-core/s3
 
+## 11.0.33
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- @aws-sdk/client-s3: ^3.36.0 -> ^3.39.0
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.43
+
 ## 11.0.32
 
 ### Patch Changes
