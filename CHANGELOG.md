@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.35
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/env@13.0.45
+
 ## 11.0.34
 
 ### Patch Changes
