@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 11.0.37
+
+### Patch Changes
+
+- fix: S3Client\_: import
+
 ## 11.0.36
 
 ### Patch Changes

@@ -1,7 +1,7 @@
 /**
  * Returns the Date of LastModified
  */
-export function LastModified_date_({ LastModified }:LastModified_date_params__I) {
+export function LastModified_date_({ LastModified }:LastModified_date_params__I):Date {
 	return new Date(Date.parse(LastModified))
 }
 export interface LastModified_date_params__I {
