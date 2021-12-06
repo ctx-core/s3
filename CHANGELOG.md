@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.44
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/env@13.0.54
+
 ## 11.0.43
 
 ### Patch Changes
