@@ -1,5 +1,14 @@
 # @ctx-core/s3
 
+## 11.0.45
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/env@14.0.0
+
 ## 11.0.44
 
 ### Patch Changes
