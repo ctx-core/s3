@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.49
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/env@14.0.5
+
 ## 11.0.48
 
 ### Patch Changes
