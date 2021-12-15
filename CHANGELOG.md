@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.48
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/env@14.0.4
+
 ## 11.0.47
 
 ### Patch Changes
