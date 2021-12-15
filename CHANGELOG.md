@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.46
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/env@14.0.2
+
 ## 11.0.45
 
 ### Patch Changes
