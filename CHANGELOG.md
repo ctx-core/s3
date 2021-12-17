@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.52
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/env@14.0.8
+
 ## 11.0.51
 
 ### Patch Changes
