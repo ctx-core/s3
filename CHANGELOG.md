@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.51
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/env@14.0.7
+
 ## 11.0.50
 
 ### Patch Changes
