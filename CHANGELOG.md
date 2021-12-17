@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.53
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/env@14.0.9
+
 ## 11.0.52
 
 ### Patch Changes
