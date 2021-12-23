@@ -36,11 +36,11 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.44.0",
-		"@ctx-core/env": "workspace:^15.0.1"
+		"@ctx-core/env": "workspace:^15.0.5"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.121",
+		"@swc/core": "^1.2.122",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
