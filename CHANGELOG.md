@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 11.0.55
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/env@15.0.7
+
 ## 11.0.54
 
 ### Patch Changes

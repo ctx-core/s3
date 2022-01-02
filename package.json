@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "11.0.54",
+	"version": "11.0.55",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rimraf lib && npm run clean:tsbuildinfo",
-		"clean:tsbuildinfo": "rm -f tsconfig.tsbuildinfo && rm -f lib/**/*.d.ts",
+		"clean:tsbuildinfo": "rimraf tsconfig.tsbuildinfo && rimraf lib/**/*.d.ts",
 		"compile": "npm run compile:source && npm run compile:declaration",
 		"compile:source": "swc src --out-dir lib --copy-files --source-maps --config-file .swcrc",
 		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir lib",
@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.45.0",
-		"@ctx-core/env": "workspace:^15.0.5"
+		"@ctx-core/env": "workspace:^15.0.7"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
