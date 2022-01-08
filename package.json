@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "11.0.57",
+	"version": "11.0.58",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.45.0",
-		"@ctx-core/env": "workspace:^15.0.9"
+		"@ctx-core/env": "workspace:^15.0.10"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
@@ -48,5 +48,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
