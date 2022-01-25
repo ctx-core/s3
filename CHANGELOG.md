@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 12.0.1
+
+### Patch Changes
+
+- fix: package entry
+
 ## 12.0.0
 
 ### Major Changes
