@@ -1,5 +1,15 @@
 # @ctx-core/s3
 
+## 12.0.0
+
+### Major Changes
+
+- LastModified_date**params_T instead of LastModified_date_params**I
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 11.0.62
 
 ### Patch Changes
