@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 12.1.0
+
+### Minor Changes
+
+- - getObject_b,getObject_maybe_b,listObjects_b,putObject_b,s3_client_b
+
 ## 12.0.1
 
 ### Patch Changes
