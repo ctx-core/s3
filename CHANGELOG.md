@@ -1,5 +1,16 @@
 # @ctx-core/s3
 
+## 13.0.0
+
+### Major Changes
+
+- flatten functions: remove \_b suffix from exports
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/env@16.0.0
+
 ## 12.1.1
 
 ### Patch Changes

@@ -1,11 +1,16 @@
-import { GetObjectCommand } from '@aws-sdk/client-s3'
+import { getObject as _getObject } from './getObject.js'
+import { s3_client_ } from './s3_client_.js'
+/** @typedef {import('@ctx-core/object').Ctx}Ctx */
 /**
- * S3 getObject
- * @param {import('@aws-sdk/client-s3').S3Client}s3client
+ * {import('@aws-sdk/client-s3').S3Client}
+ * @param {Ctx|import('@aws-sdk/client-s3').S3Client}ctx
  * @param {import('@aws-sdk/client-s3').GetObjectCommandInput}opts
  * @return {Promise<import('@aws-sdk/client-s3').GetObjectOutput>}
- * @see {@link http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getObject-property}
  */
-export function getObject(s3client, opts) {
-	return s3client.send(new GetObjectCommand(opts))
+export function getObject(ctx, opts) {
+	return (
+		typeof ctx.has === 'function'
+		? _getObject(s3_client_(/** @type {Ctx} */ctx), opts)
+		: _getObject(ctx, opts)
+	)
 }
