@@ -9,12 +9,11 @@ import { be_ } from '@ctx-core/object'
 export function s3_client_(ctx) {
 	return (
 		typeof ctx.has === 'function'
-		? s3_client_b(/** @type {Ctx} */ctx)
+		? _s3_client_(/** @type {Ctx} */ctx)
 		: new S3Client(ctx)
 	)
 }
-const key = 's3_client'
-const s3_client_b = be_(key, ()=>
+const _s3_client_ = be_('_s3_client', ()=>
 	new S3Client({
 		region: process.env.AWS_REGION
 	})
