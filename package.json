@@ -36,7 +36,7 @@
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.55.0",
 		"@ctx-core/env": "^16.0.12",
-		"@ctx-core/object": "*"
+		"@ctx-core/object": "^22.1.2"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
