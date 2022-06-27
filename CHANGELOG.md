@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 13.0.47
+
+### Patch Changes
+
+- fix: getObject
+
 ## 13.0.46
 
 ### Patch Changes

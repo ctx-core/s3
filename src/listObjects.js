@@ -12,6 +12,5 @@ export function listObjects(ctx, opts) {
 	return (
 		typeof ctx.has === 'function'
 		? s3_client_(/** @type {Ctx} */ctx).send(new ListObjectsCommand(opts))
-		: ctx.send(new ListObjectsCommand(opts))
-	)
+		: ctx.send(new ListObjectsCommand(opts)))
 }

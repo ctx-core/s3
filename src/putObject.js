@@ -12,6 +12,5 @@ export function putObject(ctx, opts) {
 	return (
 		typeof ctx.has === 'function'
 		? s3_client_(/** @type {Ctx} */ctx).send(new PutObjectCommand(opts))
-		: ctx.send(new PutObjectCommand(opts))
-	)
+		: ctx.send(new PutObjectCommand(opts)))
 }
