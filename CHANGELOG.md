@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 13.0.54
+
+### Patch Changes
+
+- @aws-sdk/client-s3: ^3.129.0 -> ^3.130.0
+
 ## 13.0.53
 
 ### Patch Changes
