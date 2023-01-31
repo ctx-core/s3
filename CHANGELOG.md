@@ -1,5 +1,14 @@
 # @ctx-core/s3
 
+## 13.0.134
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/env@16.1.37
+  - @ctx-core/object@24.1.1
+
 ## 13.0.133
 
 ### Patch Changes
