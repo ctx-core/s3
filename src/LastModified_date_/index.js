@@ -7,4 +7,7 @@ export function LastModified_date_(params) {
 	const { LastModified } = params
 	return new Date(Date.parse(LastModified))
 }
-export { LastModified_date_ as _LastModified_date, LastModified_date_ as _date__LastModified__Object, }
+export {
+	LastModified_date_ as _LastModified_date,
+	LastModified_date_ as _date__LastModified__Object,
+}

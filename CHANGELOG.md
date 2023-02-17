@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 13.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 13.0.153
 
 ### Patch Changes

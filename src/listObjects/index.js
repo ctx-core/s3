@@ -1,5 +1,5 @@
 import { ListObjectsCommand } from '@aws-sdk/client-s3'
-import { s3_client_ } from './s3_client_.js'
+import { s3_client_ } from '../s3_client_/index.js'
 /** @typedef {import('@ctx-core/object').Ctx}Ctx */
 /**
  * S3 ListObjectsCommand
