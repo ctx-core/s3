@@ -1,4 +1,5 @@
 import { S3Client } from '@aws-sdk/client-s3'
+import { import_meta_env_ } from '@ctx-core/env'
 import { be_ } from '@ctx-core/object'
 /** @typedef {import('@ctx-core/object').Ctx}Ctx */
 /**
@@ -14,6 +15,6 @@ export function s3_client_(ctx) {
 }
 const _s3_client_ = be_('_s3_client', ()=>
 	new S3Client({
-		region: process.env.AWS_REGION
+		region: import_meta_env_().AWS_REGION
 	})
 )

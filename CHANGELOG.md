@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 13.1.23
+
+### Patch Changes
+
+- import*meta_env*() instead of process.env
+- Updated dependencies
+  - @ctx-core/env@17.2.18
+
 ## 13.1.22
 
 ### Patch Changes
