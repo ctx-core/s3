@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 13.1.79
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.57 -> ^17.2.58
+
 ## 13.1.78
 
 ### Patch Changes
