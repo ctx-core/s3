@@ -1,6 +1,6 @@
 /**
  * Returns the Date of LastModified
- * @param {import('./LastModified_date_.d.ts').LastModified_date__params_T}params
+ * @param {import('./index.d.ts').LastModified_date__params_T}params
  * @return {Date}
  */
 export function LastModified_date_(params) {

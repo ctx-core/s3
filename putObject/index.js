@@ -1,5 +1,5 @@
 import { PutObjectCommand } from '@aws-sdk/client-s3'
-import { s3_client_ } from '../s3_client_/index.js'
+import { s3_client_ } from '../s3_client_'
 /** @typedef {import('@ctx-core/object').Ctx}Ctx */
 /**
  * S3 putObject
@@ -11,6 +11,6 @@ import { s3_client_ } from '../s3_client_/index.js'
 export function putObject(ctx, opts) {
 	return (
 		typeof ctx.has === 'function'
-		? s3_client_(/** @type {Ctx} */ctx).send(new PutObjectCommand(opts))
-		: ctx.send(new PutObjectCommand(opts)))
+			? s3_client_(/** @type {Ctx} */ctx).send(new PutObjectCommand(opts))
+			: ctx.send(new PutObjectCommand(opts)))
 }

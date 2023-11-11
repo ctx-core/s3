@@ -6,5 +6,5 @@ export function s3_env__validate() {
 }
 export {
 	s3_env__validate as s3_env_validate,
-	s3_env__validate as validate__env__s3, 
+	s3_env__validate as validate__env__s3,
 }

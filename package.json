@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "13.1.235",
+	"version": "13.2.0",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,19 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./getObject",
+		"./getObject_maybe",
+		"./LastModified_date_",
+		"./listObjects",
+		"./putObject",
+		"./s3_client_",
+		"./s3_env__validate"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -34,8 +43,8 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.445.0",
-		"@ctx-core/env": "^17.3.19",
-		"@ctx-core/object": "^30.0.0"
+		"@ctx-core/env": "^17.4.0",
+		"@ctx-core/object": "^30.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

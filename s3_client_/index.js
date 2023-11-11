@@ -10,8 +10,8 @@ import { be_ } from '@ctx-core/object'
 export function s3_client_(ctx) {
 	return (
 		typeof ctx.has === 'function'
-		? _s3_client_(/** @type {Ctx} */ctx)
-		: new S3Client(ctx))
+			? _s3_client_(/** @type {Ctx} */ctx)
+			: new S3Client(ctx))
 }
 const _s3_client_ = be_('_s3_client', ()=>
 	new S3Client({
