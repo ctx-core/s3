@@ -1,5 +1,14 @@
 # @ctx-core/s3
 
+## 13.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/env@17.4.3
+  - @ctx-core/object@30.1.3
+
 ## 13.2.2
 
 ### Patch Changes
