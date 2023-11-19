@@ -1,6 +1,6 @@
 import { ListObjectsCommand } from '@aws-sdk/client-s3'
 import { s3_client_ } from '../s3_client_'
-/** @typedef {import('@ctx-core/object').Ctx}Ctx */
+/** @typedef {import('@ctx-core/object').Ctx} */
 /**
  * S3 ListObjectsCommand
  * @param {Ctx|import('@aws-sdk/client-s3').S3Client}ctx
