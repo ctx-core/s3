@@ -16,5 +16,4 @@ export function s3_client_(ctx) {
 const _s3_client_ = be_(()=>
 	new S3Client({
 		region: import_meta_env_().AWS_REGION
-	})
-).config({ id: '_s3_client' })
+	}), { id: '_s3_client' })
