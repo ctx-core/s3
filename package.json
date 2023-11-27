@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "13.2.34",
+	"version": "13.2.35",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -45,8 +45,8 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.456.0",
-		"@ctx-core/env": "^17.4.33",
-		"@ctx-core/object": "^31.1.11"
+		"@ctx-core/env": "^17.4.34",
+		"@ctx-core/object": "^31.1.12"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
