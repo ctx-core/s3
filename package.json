@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "13.2.66",
+	"version": "13.2.67",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@aws-sdk/client-s3": "^3.473.0",
+		"@aws-sdk/client-s3": "^3.474.0",
 		"@ctx-core/env": "^17.4.56",
 		"@ctx-core/object": "^31.1.33"
 	},
