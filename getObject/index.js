@@ -1,6 +1,6 @@
+/// <reference types="ctx-core" />
 import { GetObjectCommand } from '@aws-sdk/client-s3'
 import { s3_client_ } from '../s3_client_/index.js'
-/** @typedef {import('@ctx-core/object').Ctx} */
 /**
  * @param {Ctx|import('@aws-sdk/client-s3').S3Client}s3_client_or_ctx
  * @param {import('@aws-sdk/client-s3').GetObjectCommandInput}opts

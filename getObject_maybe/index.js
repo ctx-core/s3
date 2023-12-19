@@ -1,7 +1,7 @@
+/// <reference types="ctx-core" />
 import { getObject } from '../getObject/index.js'
-
 /**
- * @param {import('@ctx-core/object').Ctx}ctx
+ * @param {Ctx}ctx
  * @param {import('@aws-sdk/client-s3').GetObjectCommandInput}opts
  * @return {Promise<import('@aws-sdk/client-s3').GetObjectCommandOutput>}
  */

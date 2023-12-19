@@ -1,5 +1,5 @@
 import type { GetObjectCommandInput, GetObjectCommandOutput, S3Client } from '@aws-sdk/client-s3'
-import type { Ctx } from '@ctx-core/object'
+import type { Ctx } from 'ctx-core/be'
 
 /**
  * S3 GetObjectCommand
