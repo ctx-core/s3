@@ -1,5 +1,14 @@
 # @ctx-core/s3
 
+## 13.2.73
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/env@17.4.61
+
 ## 13.2.72
 
 ### Patch Changes
