@@ -21,13 +21,13 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./getObject",
-		"./getObject_maybe",
-		"./LastModified_date_",
-		"./listObjects",
-		"./putObject",
-		"./s3_client_",
-		"./s3_env__validate"
+		"getObject",
+		"getObject_maybe",
+		"LastModified_date",
+		"listObjects",
+		"putObject",
+		"s3_client",
+		"s3_env__validate"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -45,7 +45,6 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.477.0",
-		"@ctx-core/env": "^17.4.61",
 		"ctx-core": "^5.1.0"
 	},
 	"devDependencies": {

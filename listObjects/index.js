@@ -1,6 +1,6 @@
 /// <reference types="ctx-core" />
 import { ListObjectsCommand } from '@aws-sdk/client-s3'
-import { s3_client_ } from '../s3_client_'
+import { s3_client_ } from '../s3_client'
 /**
  * S3 ListObjectsCommand
  * @param {Ctx|import('@aws-sdk/client-s3').S3Client}ctx
