@@ -1,5 +1,11 @@
 # @ctx-core/s3
 
+## 13.2.106
+
+### Patch Changes
+
+- ctx-core: ^5.18.6 -> ^5.18.7
+
 ## 13.2.105
 
 ### Patch Changes
