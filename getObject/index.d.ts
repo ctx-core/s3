@@ -1,5 +1,5 @@
 import type { GetObjectCommandInput, GetObjectCommandOutput, S3Client } from '@aws-sdk/client-s3'
-import type { Ctx } from 'ctx-core/be'
+import type { ctx_T } from 'ctx-core/be'
 
 /**
  * S3 GetObjectCommand
@@ -9,5 +9,5 @@ export declare function getObject(
     s3client:S3Client, opts:GetObjectCommandInput
 ):Promise<GetObjectCommandOutput|null>
 export declare function getObject(
-    ctx:Ctx, opts:GetObjectCommandInput
+    ctx:ctx_T, opts:GetObjectCommandInput
 ):Promise<GetObjectCommandOutput|null>
