@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 13.2.189
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 13.2.188
 
 ### Patch Changes

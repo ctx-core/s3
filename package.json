@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/s3",
-	"version": "13.2.188",
+	"version": "13.2.189",
 	"description": "ctx-core s3",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/s3.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-s3@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -46,7 +50,7 @@
 	},
 	"dependencies": {
 		"@aws-sdk/client-s3": "^3.536.0",
-		"ctx-core": "^6.6.0"
+		"ctx-core": "^6.6.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
