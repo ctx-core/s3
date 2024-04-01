@@ -1,5 +1,12 @@
 # @ctx-core/s3
 
+## 13.2.199
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 13.2.198
 
 ### Patch Changes
