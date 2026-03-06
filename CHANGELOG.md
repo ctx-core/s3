@@ -1,5 +1,13 @@
 # @ctx-core/s3
 
+## 13.2.264
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 13.2.263
 
 ### Patch Changes
